@@ -1,0 +1,13 @@
+chasm\chasmpvp\manager\StatsManager.class
+chasm\chasmpvp\ChasmPvP.class
+chasm\chasmpvp\utils\HexUtils.class
+chasm\chasmpvp\storage\types\JSONStorage.class
+chasm\chasmpvp\listener\cache\JoinListener.class
+chasm\chasmpvp\listener\cache\LeaveListener.class
+chasm\chasmpvp\storage\StatsStorage.class
+chasm\chasmpvp\cache\StatsCache.class
+chasm\chasmpvp\listener\gameplay\KillListener.class
+chasm\chasmpvp\objects\StorageObject.class
+chasm\chasmpvp\objects\PlayerStats.class
+chasm\chasmpvp\papi\PlaceholderSupport.class
+chasm\chasmpvp\utils\DeathParticleUtils.class
